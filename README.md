@@ -8,4 +8,4 @@ Power BI: Main tool for data visualization and dashboard creation.
 
 Excel/CSV Files: Source data formats.
 
-![Screenshot (788)](https://github.com/devesh905/HR-Data-Analytics-/assets/107157640/08496aaf-df1c-4bcf-901a-2cd869f85420)
+![Screenshot (1237)](https://github.com/user-attachments/assets/3a8f7339-e278-434b-b4f8-0f340a08b53f)
